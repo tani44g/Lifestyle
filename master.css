@@ -1,0 +1,41 @@
+.mainbg img{
+    width: 100%;
+    max-height: 800px;
+}
+
+.description{
+    position: absolute;
+    top: 45%;
+    left:28%;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 600px;
+    color: white;
+}
+
+.description p,.description button{
+    margin-bottom: 50px;
+}
+
+.col-sm-4{
+    height: 330px;
+    width: 320px;
+    margin-top: 50px;
+    margin-right: 25px;
+    -webkit-box-shadow: 9px 10px 15px 0px rgba(0,0,0,0.54);
+    box-shadow: 9px 10px 15px 0px rgba(0,0,0,0.54);
+}
+
+.col-sm-4 img{
+    padding-top: 10px;
+}
+
+.row{
+    padding-left: 12%;
+}
+
+.col-sm-12{
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+    padding-top: 10px; 
+}
