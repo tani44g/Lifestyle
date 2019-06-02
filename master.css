@@ -8,12 +8,16 @@
     top: 45%;
     left:28%;
     background-color: rgba(0, 0, 0, 0.7);
-    width: 600px;
+    width: 43%;
+    height: 35%;
+    min-height: 170px;
+    min-width: 250px;
     color: white;
+    display: block;
 }
 
-.description p,.description button{
-    margin-bottom: 50px;
+.description p{
+    padding-bottom: 15px;
 }
 
 .col-sm-4{
